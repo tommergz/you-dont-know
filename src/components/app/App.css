@@ -1,0 +1,12 @@
+.app {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.text-wrapper {
+  background-color: black;
+  color: #87f1ff;
+  border-radius: 10px;
+  padding: 10px;
+}
