@@ -17,7 +17,7 @@ const allQuestions = [
       ,
       "Bottom"
     ],
-    info: "Freestyler! Rock the microphone"
+    info: "Freestyler! Rock the microphone!"
   }
 ]
 
