@@ -1,13 +1,13 @@
 const allQuestions = [
   {
     question: "Who is Gordon Freeman?",
-    rightAnswer: "I'm Gordon Freeman",
+    rightAnswer: "I don'n know",
     answers: [
       "I'm Gordon Freeman"
       ,
       "I don'n know"
     ],
-    info: "You are Gordon Freeman"
+    info: "You don't know"
   },
   {
     question: "Freestyler! Rock the?",
