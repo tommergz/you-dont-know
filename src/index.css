@@ -1,6 +1,9 @@
 body {
-  background: url('./assets/images/wave.png') center;
   background-size: cover;
   display: flex;
   justify-content: center;
+}
+
+#root {
+  width: 100%;
 }
